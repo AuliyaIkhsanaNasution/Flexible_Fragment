@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Flexible Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_home_fragment">Hello Home Fragment</string>
+    <string name="to_category">Pindah ke kategori</string>
+    <string name="this_category">Ini Halaman kategori Fragment</string>
+    <string name="category_lifestyle">category lifestyle</string>
+    <string name="category_name">category name</string>
+    <string name="category_description">category description</string>
+    <string name="to_profile">ke halaman profile</string>
+    <string name="tampilkan_dialog">tampilkan dialog</string>
+    <string name="question_coach">Siapa Pelatih Terbaik</string>
+    <string name="sir_alex_ferguson">sir alex ferguson</string>
+    <string name="jose_mourinho">jose mourinho</string>
+    <string name="louis_van_gaal">louis van gaal</string>
+    <string name="david_moyes">david moyes</string>
+    <string name="close">close</string>
+    <string name="choose">choose</string>
+    <string name="this_profile">Ini Halaman Profile</string>
+</resources>
